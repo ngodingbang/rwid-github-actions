@@ -2,7 +2,12 @@
 
 All notable changes to `RWID GitHub Actions` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-github-actions/compare/1.2.0...main)
+## [Unreleased](https://github.com/ngodingbang/rwid-github-actions/compare/1.3.0...main)
+
+## [1.3.0](https://github.com/ngodingbang/rwid-github-actions/releases/tag/1.3.0) - 2024-11-08
+
+- feat: use express library to create rest api by [@ngodingbang](https://github.com/ngodingbang) in [#587d85e](https://github.com/ngodingbang/rwid-github-actions/commit/587d85e83e442a13c67a8cdd349f4a1b4f9f7f81).
+- docs: add github actions and codecov badge on readme by [@ngodingbang](https://github.com/ngodingbang) in [#b33f77b](https://github.com/ngodingbang/rwid-github-actions/commit/b33f77b8860074e5c5aace33a6824d49a03b31cb).
 
 ## [1.2.0](https://github.com/ngodingbang/rwid-github-actions/releases/tag/1.2.0) - 2024-11-08
 
