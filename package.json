@@ -1,6 +1,6 @@
 {
   "name": "@ngodingbang/rwid-github-actions",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "private": true,
   "type": "module",
   "description": "Learn CI/CD on GitHub Actions using TypeScript.",
